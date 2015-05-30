@@ -14,6 +14,7 @@ themeColors =
   blue:   '#2299dd'
   pink:   '#e90f92'
   purple: '#7c60e0'
+  ingress: '#0096a2'
 
 module.exports = (grunt) ->
   grunt.registerTask 'themes', 'Compile the pace theme files', ->
